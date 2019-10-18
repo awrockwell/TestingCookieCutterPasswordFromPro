@@ -2,7 +2,7 @@
     "full_name": "Aaron Rockwell",
     "email": "awrockwell@gmail.com",
     "github_username": "csci-e-29",
-    "project_name": "2019fa-{{ cookiecutter.project_name }}",
+    "project_name": "Probably_Pset_and_Number",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
     "repo_name": "2019fa-{{ cookiecutter.project_name }}-awrockwell",
     "project_short_description": "A short description of the project",
